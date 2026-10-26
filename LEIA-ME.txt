@@ -1,0 +1,26 @@
+Badoo Produções Eventos — site estático
+=======================================
+
+Arquivos:
+- index.html: página principal
+- styles.css: estilos responsivos personalizados
+- sobre.html: informações institucionais
+- politica-de-privacidade.html: política de privacidade (modelo para revisão)
+- termos-de-uso.html: termos de uso (modelo para revisão)
+- assets/: imagens enviadas pelo cliente
+
+Como visualizar:
+1. Extraia o ZIP.
+2. Mantenha a estrutura de pastas.
+3. Abra index.html no navegador ou publique a pasta completa em uma hospedagem estática.
+
+Tecnologias:
+- HTML5, CSS3, Bootstrap 5.3.3 e Bootstrap Icons via CDN.
+- É necessária conexão à internet para carregar Bootstrap, ícones e fontes externas.
+
+Antes de publicar:
+- Confirme que todos os dados cadastrais e de contato estão corretos.
+- Revise a política de privacidade conforme os dados e ferramentas realmente utilizados.
+- Confira direitos de uso das imagens e confirme que elas representam o negócio ou deixe claro que são referências ilustrativas.
+- Verifique links, hospedagem, HTTPS e formulários (não há formulário de envio nesta versão).
+- O site não garante aprovação no Google Ads; revise também as políticas aplicáveis e a página de destino do anúncio.
